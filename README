@@ -4,17 +4,18 @@ GD
 Write access to site folder from PHP
 
 Setup:
-1) Put this all in the root of your site
+1). Put this all in the root of your site
 
-2) create an empty thumbs/ folder in your site root
+2). create an empty thumbs/ folder in your site root
 
-3) create an empty images/ folder in your site root
+3). create an empty images/ folder in your site root
 
-4) Drop images into the images/ folder. create folders under this folder with images. go nuts.
+4). Drop images into the images/ folder. create folders under this folder with images. go nuts.
 
-5) 'chmod -R 777 *' in the root of your new gallery site
+5). 'chmod -R 777 *' in the root of your new gallery site
 
-6) Load up the site. Ta-da - a quick, simple gallery with lightbox and left/right controls.
+6). Load up the site. Ta-da - a quick, simple gallery with lightbox and left/right controls.
+
 
 Notes:
 Thumbs are created as-needed, and only once. So you can add images to the images/ folder and new thumbs will be created
